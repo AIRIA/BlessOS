@@ -13,4 +13,4 @@ var attributes = {
 	name:'BlessOS',
 	align:'middle'
 };
-swfobject.embedSWF("main.swf?random="+randomVersion,"blessos","100%","100%",swfVersionStr,xiSwfUrlStr,flashvars,params,attributes);
+swfobject.embedSWF("os/main.swf?random="+randomVersion,"blessos","100%","100%",swfVersionStr,xiSwfUrlStr,flashvars,params,attributes);
